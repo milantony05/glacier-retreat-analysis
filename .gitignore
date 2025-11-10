@@ -63,6 +63,3 @@ datasets/*/temp/
 # datasets/Sentinel-1/*.tif
 # datasets/Sentinel-2/*.tif
 # datasets/Landsat*/*.tif
-
-# Generated reports
-*.pdf
